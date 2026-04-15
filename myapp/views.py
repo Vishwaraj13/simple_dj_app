@@ -2,8 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 # first commit
-#after squah commit
-#check
+#afte
 def func(request):
     
     return render(request,'index.html')
