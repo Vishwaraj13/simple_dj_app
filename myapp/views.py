@@ -1,7 +1,7 @@
 from django.shortcuts import render
 
 # Create your views here.
-# first commit
+# first commit more changes
 #afte
 def func(request):
     
